@@ -33,7 +33,7 @@ def sorted_matrix
   array = [
     ["Eggplant","Grapefruit","Oranges","Pineapple","Watermelon",],
     
-    ["Asparagus","Avocadoes","Strawberries","Potatoes","Grapes",,]
+    ["Asparagus","Avocadoes","Grapes","Potatoes","Strawberries"]
     ]
 end
 
